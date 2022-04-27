@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1370816117 source:c:\users\micro08\desktop\douglas\codigo morse\main.c
+	<stdio.h>
+	<stdlib.h>
+

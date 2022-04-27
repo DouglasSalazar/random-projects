@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1380129412 source:e:\trabalho 3\concessionaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1380417912 source:f:\trabalho 3\concessionaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

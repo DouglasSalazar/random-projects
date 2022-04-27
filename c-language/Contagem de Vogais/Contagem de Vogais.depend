@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1370395623 source:e:\documents and settings\not\desktop\linguagem c\contagem de vogais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1370395624 source:e:\linguagem c\contagem de vogais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

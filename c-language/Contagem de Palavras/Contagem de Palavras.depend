@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1370397077 source:e:\documents and settings\not\desktop\linguagem c\contagem de palavras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1370397130 source:e:\linguagem c\contagem de palavras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

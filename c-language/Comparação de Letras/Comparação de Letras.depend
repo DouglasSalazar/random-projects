@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1370398301 source:e:\documents and settings\not\desktop\linguagem c\comparação de letras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1370455452 source:e:\linguagem c\comparação de letras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

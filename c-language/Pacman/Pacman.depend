@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1542496697 source:c:\users\douglas\onedrive\documentos\faculdade\ufgd\laboratorio de programação ii\pacman\pacman.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+
+1542498326 source:c:\users\douglas\onedrive\documentos\faculdade\ufgd\laboratorio de programação ii\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"Pacman.h"
+	<conio.h>
+	<windows.h>
+
+1542494067 c:\users\douglas\onedrive\documentos\faculdade\ufgd\laboratorio de programação ii\pacman\pacman.h
+

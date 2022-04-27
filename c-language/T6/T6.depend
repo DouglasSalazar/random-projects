@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414612573 source:d:\users\dougl_000\documents\t6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+

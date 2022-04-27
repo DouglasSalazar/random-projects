@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415304236 source:d:\users\dougl_000\desktop\arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+Número de vértices = 8
+
+V(G) = {a, b, c, d, e, f, g, h}
+
+A(G) = {(a, b), (a, c), (b, d), (b, e), (c, d), (d, e), (d, f), (f, g), (f, h), (g, h)}
+
